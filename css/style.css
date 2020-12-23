@@ -1,0 +1,62 @@
+body{
+	margin: 0px;
+}
+
+.container {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bgcolor {
+background: #333;
+}
+
+.container img{
+	max-width: 100%;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px #3f461a;
+}
+
+.image{
+
+margin: 20px;
+
+
+
+box-shadow: 14 29 29 red;
+}
+
+h1{
+color: #fff;
+text-align: center;
+font-size: -webkit-xxx-large;
+margin: auto;
+padding: 60px;
+font-family: poppins;
+}
+
+.titlecolor{color: #cbd51e}
+.orange {color: orange}
+.seagreen {color: seagreen}
+.purple {color: purple}	
+.red {color: red}
+
+p{
+	align-content: 
+	center;margin: 20px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 400;
+	font-family: poppins;
+	line-height: 1.5;
+}
+
+.post {
+	
+float: left;
+	
+width: 33.33%;
+	
+
+}
